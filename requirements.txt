@@ -1,0 +1,4 @@
+DSSATTools==2.1.6
+matplotlib
+numpy
+pandas
